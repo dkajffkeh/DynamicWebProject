@@ -12,7 +12,8 @@
 <body>
 
 에러발생 <br>
+<div style="color:red">
 <%= exception.getMessage() %>
-
+</div>
 </body>
 </html>
